@@ -1,0 +1,1 @@
+This project is a full-stack web application built on the MERN (MongoDB, Express, React, Node.js) stack, featuring user authentication through Google OAuth and state management using Redux. The application allows users to sign up, log in, seamlessly authenticate using their Google accounts, update and delete their accounts, and sign out.
